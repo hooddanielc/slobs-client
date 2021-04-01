@@ -4,7 +4,7 @@ slobs-client
 # Installing
 
 ```
-npm install --save obs-streamlabs-client
+npm install --save slobs-client
 ```
 
 # Building
