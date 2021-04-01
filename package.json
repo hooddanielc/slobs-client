@@ -1,8 +1,9 @@
 {
   "name": "slobs-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "streamlabs-obs rpc 2.0 client for remote control",
   "main": "index.js",
+  "keywords": ["streamlabs", "obs", "slobs", "client", "remote", "rpc", "2.0", "api", "websocket"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
